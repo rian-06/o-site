@@ -1,0 +1,54 @@
+#imagens-aside {
+    width: 23%;
+    height: 160px;
+    border: 0.5px solid white;
+    
+}
+
+#secimg1 {
+    width: 49%;
+    height: 80px;
+    border: 0.5px solid black;
+    float: left;
+    display: block;
+    background-image: url(https://sortitoutsi.net/uploads/megapacks/cutoutfaces/originals/2022.00/735216.png);
+    background-size: 60%;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+#secimg2 {
+    width: 49%;
+    height: 80px;
+    border: 0.5px solid black;
+    float: left;
+    display: block;
+    background-image: url(https://sortitoutsi.net/uploads/megapacks/cutoutfaces/originals/2022.04/7458500.png);
+    background-size: 60%;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+#secimg3 {
+    width: 49%;
+    height: 79px;
+    border: 0.5px solid black;
+    float: left;
+    display: block;
+    background-image: url(https://futhead.cursecdn.com/static/img/18/players/800043.png);
+    background-size: 60%;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+#secimg4 {
+    width: 49%;
+    height: 79px;
+    border: 0.5px solid black;
+    float:left;
+    display: block;
+    background-image: url(https://www.seekpng.com/png/full/137-1379104_neymar-face-.png);
+    background-size: 60%;
+    background-repeat: no-repeat;
+    background-position: center;
+}
