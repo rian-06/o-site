@@ -34,8 +34,33 @@ aside {
 footer {
     width: 99.5%;
     height: 200px;
-    border: 1px solid lightskyblue;
-    background-color: lightskyblue;
+    border: 1px solid lightgray;
+    background-color: lightgray;
     float: left;
     display: block;
+}
+
+
+.li2 {
+    margin-left: 7%;
+}
+
+
+#sectionfooter {
+    width: 20%;
+    height: 100px;
+    border: 1px solid black;
+    border-radius: 5%;
+    background-color: silver;
+    margin-left: 5%;
+}
+
+.imgremio {
+    width: 3%
+}
+
+.imgremio2 {
+    width: 6%;
+    margin-left: 800px;
+    
 }
