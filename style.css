@@ -1,12 +1,14 @@
 #buscar {
     height: 30px;
-    width: 15%;
+    width: 23.5%;
     border: 1px solid black;
     float: left;
+    
 }
 
 #txtBusca {
 margin-left: 1%;
 margin-top: 2%;
-margin-left: 5%;
+margin-left: 2%;
+width: 90.5%;
 }
