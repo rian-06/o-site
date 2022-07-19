@@ -1,0 +1,20 @@
+#mais-lidos {
+    width: 23%;
+    height: 40px;
+    border: 0.5px solid gray;
+    background-color: gray;
+
+}
+
+#h4-maislidos {
+    text-align: center;
+}
+
+#lista {
+    width: 23%;
+    height: 150px;
+    border: 0.5px solid gray;
+    background-color: white;
+
+}
+
