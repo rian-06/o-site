@@ -1,3 +1,4 @@
+
 * {
     font-family: Arial, Helvetica, sans-serif;
     margin: 0;
@@ -38,4 +39,19 @@ footer {
     background-color: lightskyblue;
     float: left;
     display: block;
+
+#buscar {
+    height: 30px;
+    width: 23.5%;
+    border: 1px solid black;
+    float: left;
+    
+}
+
+#txtBusca {
+margin-left: 1%;
+margin-top: 2%;
+margin-left: 2%;
+width: 90.5%;
+
 }
