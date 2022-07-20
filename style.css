@@ -10,21 +10,21 @@ font-family: Arial, Helvetica, sans-serif;
 
 #sec1 {
 
-border: 0px solid black;
+border: 2px solid black;
 
 width: 700px;
 
-height: 250px;
+height: 252px;
 
 }
-
-
 
 #destaq {
 
 margin-left: 0px;
 
-border: 0px solid black;
+width: 700px;
+
+border: 2px solid black;
 
 background-color: rgb(36, 34, 34);
 
@@ -36,9 +36,9 @@ color: white;
 
 color: white;
 
-border: 0px solid black;
+border: 2px solid black;
 
-width: 440px;
+width: 439px;
 
 height: 225px;
 
@@ -81,3 +81,175 @@ margin-left: 350px;
 margin-top: 10px;
 
 }
+
+#sec3 {
+
+    border: 2px solid black;
+    
+    margin-top: 20px;
+    
+    height: 450px;
+    
+    width: 300px;
+    
+    background-color: gray;
+    
+    }
+    
+    #programacao {
+    
+    background-color: rgb(36, 34, 34);
+    
+    color: white;
+    
+    margin-top: px;
+    
+    height: 25px;
+    
+    }
+    
+    #ul1 {
+    
+    color: white;
+    
+    margin-top: 20px;
+    
+    margin-left: 20px;
+    
+    
+    }
+    
+    #h13 {
+    
+    text-align: center;
+    
+    background-color: rgb(36, 34, 34);
+    
+    margin-top: 15px;
+    
+    color: white;
+    
+    height: 20px;
+    
+    width: 220px;
+    
+    margin-left: 25px;
+    }
+    
+    input[name="leiamais2"] {
+    
+        background-color: lightgray;
+    
+        width: 70px;
+        
+        height: 25px;
+        
+        border: 1px solid black;
+        
+        border-radius: 1px;
+        
+        margin-left: 220px;
+        
+        margin-top: 10px;
+    
+    
+    }
+    
+    #h32 {
+    
+    font-size: medium;
+    
+    color: white;
+    
+    margin-top: 10px;
+    
+    }
+    
+    #p2 {
+    
+    color: white;
+    
+    margin-top: 10px;
+    
+    
+    
+    }
+
+
+#sec5 {
+
+background-color: gray;
+
+border: 2px solid black;
+
+height: 450px;
+
+width: 300px;
+
+}
+
+#h14 {
+
+font-size: large;
+
+height: 25px;
+
+background-color: rgb(36, 34, 34);    
+
+color: white;
+
+}
+
+#h15 {
+    text-align: center;
+
+    background-color: rgb(36, 34, 34);
+    
+    margin-top: 15px;
+    
+    color: white;
+    
+    height: 20px;
+    
+    width: 220px;
+    
+    margin-left: 25px;
+}
+
+#ul1 {
+
+color: white;
+
+margin-top: 20px;
+
+margin-left: 20px;
+
+
+}
+
+#h33 {
+
+color: white;
+
+margin-top: 10px;
+
+font-size: medium;
+
+}
+
+#p4 {
+
+color: white;
+
+margin-top: 10px;
+
+}
+
+#sec4 {
+
+background-color: gray;
+
+}
+
+
+
